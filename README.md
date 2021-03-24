@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Douglas</h1>
 <h3 align="center">better known as Doguinha</h3>
 
-- 🔭 I’m currently working on [Med+ Diagnóstico](https://www.facebook.com/MedmaisD)
+- 🔭 I’m currently studying at the [Federal University of Maranhão](https://portalpadrao.ufma.br/)
 
 - 🌱 I’m currently learning **JavaScript, ReactJS, React Native, NodeJS**
 
