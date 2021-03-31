@@ -24,10 +24,10 @@
     <table align="center">
       <tr>
           <td>
-              <img width="475px" align="center" src="https://github-readme-stats.vercel.app/api?username=doug-22&count_private=true&hide_border=true" />
+              <img width="540px" align="center" src="https://github-readme-stats.vercel.app/api?username=doug-22&count_private=true&show_icons=true&theme=radical&hide=issues" />
           </td>
           <td>
-              <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doug-22&hide=html&layout=compact&count_private=true&hide_border=true" />               </td>
+              <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doug-22&layout=compact&theme=radical&langs_count=6" />               </td>
       </tr>  
     </table>
 </center>
